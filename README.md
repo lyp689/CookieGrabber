@@ -2,6 +2,8 @@
 
 网站 Cookies 获取工具 —— 一个基于 WPF + WebView2 的 Windows 桌面应用，可在内置浏览器中登录网站后，查看并导出当前会话的 Cookies。
 
+![程序主界面](docs/screenshot-main.png)
+
 ## 功能
 
 - 内置 WebView2 浏览器，登录状态持久化（下次打开无需重新登录）
